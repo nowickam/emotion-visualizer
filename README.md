@@ -7,6 +7,9 @@ The resulting program is a simple application with two screens as a visual outpu
 
 When establishing the environment for the program, we recommend using Anaconda. In addition, a webcam is needed to capture images of the user. The expected output, when launching the program (integrated_system.py), is a full-screen application with start button triggering an emotion-driven animation. One quits the application with ESC button.
 
+Examplary output:
+![emotion_4](https://user-images.githubusercontent.com/49707233/73084242-e71e6200-3ecc-11ea-8b12-786740fd45ce.png)
+
 Libraries required for the Integrated System (integrated_system.py):
 - tensorflow 2.0.0
 - keras 2.3.1
